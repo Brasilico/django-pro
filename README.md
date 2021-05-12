@@ -1,2 +1,2 @@
 # django-pro
-Projeto para mostar uma configuração mínima mais profissional para desenvolvimento web
+Projeto para mostar uma configuração mínima, e profissional para desenvolvimento web
